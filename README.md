@@ -1,4 +1,4 @@
-# Trydo-vue-template
+
 
 ## Project setup
 
