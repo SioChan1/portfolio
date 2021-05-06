@@ -10,8 +10,8 @@
         <div class="section-title">
           <h2 class="heading-title">About Me</h2>
           <p class="description">
-            Hey there again, I am a designer with an education background in fashion and multimedia design. I am open minded and hard worker, that gets along well with others. Moving forward and always looking for new ways to solve problems. Innovation is what I strive for. 
-I am not shy to take a lead in projects, but as well I am great at following lead of others.
+            Hey there again, I am a designer with an education background in fashion and multimedia design. I am an open minded and hard worker, that gets along well with others. Moving forward and always looking for new ways to solve problems. Innovation is what I strive for. 
+I am not shy to take the lead in projects, but I am equally comfortable following the lead of others.
           </p> 
 <div> 
   <section> 

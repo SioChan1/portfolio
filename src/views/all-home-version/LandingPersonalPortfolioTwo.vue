@@ -49,7 +49,7 @@
               <h2 class="heading-title">Projects and creative work</h2>
               <p>
                 Here you can see some of my newest projects, most of them being academy projects at the moment as I am full time student.
-                My projects are usually about visual identity, such as logos and banners. I am working close to several e-sports teams and get to make them needed visuals for places such as twitter.   
+                My projects are usually about visual identity, such as logos and banners. I am working closely with several e-sports teams to get them needed visuals for platforms such as twitter.   
               </p>
             </div>
           </v-col>
@@ -72,8 +72,8 @@
             <div class="section-title text-left">
               <h2>Hobby art</h2>
               <p>
-                I have been passionate artist since I can remember, drawing is one of my favourite pastime activities! Here are some of my newest works! 
-                I made digital art that is created using adobe programs, mainly photoshop and illustrator. I use drawing tablet and have knowledge in hardware.  
+                I have been a passionate artist ever since I can remember, drawing is one of my favourite pastime activities! Here are some of my newest works! 
+                I make digital art that is created using adobe programs, mainly photoshop and illustrator. I use a drawing tablet and have knowledge in hardware.  
               </p>
             </div>
           </v-col>
@@ -88,18 +88,7 @@
       class="section rn-contact-area rn-section-gap bg_color--1"
       id="contact"
     >
-      <div class="contact-form--1">
-        <v-container>
-          <Contact>
-            <img
-              slot="contact-img"
-              class="w-100"
-              src="../../assets/images/about/about-9.jpg"
-              alt="trydo"
-            />
-          </Contact>
-        </v-container>
-      </div>
+     
     </div>
     <!-- End Contact Area  -->
 

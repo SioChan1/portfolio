@@ -11,14 +11,14 @@
     >
       <div class="blog blog-style--1">
         <div class="thumbnail">
-          <router-link to="/blog-details">
+          <p>
             <img class="w-100" :src="item.src" alt="Blog Images" />
-          </router-link>
+          </p>
         </div>
         <div class="content">
           <p class="blogtype">{{ item.meta }}</p>
           <h4 class="heading-title">
-            <router-link to="/blog-details">{{ item.title }}</router-link>
+            <p>{{ item.title }}</p>
           </h4>
           
         </div>
